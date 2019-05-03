@@ -1,0 +1,10 @@
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\Debug\Tutorial11.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\Debug\Tutorial11.pdb
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csprojAssemblyReference.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.Form1.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.Properties.Resources.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csproj.GenerateResource.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csproj.CoreCompileInputs.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.csproj.CopyComplete
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.pdb

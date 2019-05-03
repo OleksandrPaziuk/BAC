@@ -1,0 +1,4 @@
+C:\Users\Sasha\Desktop\777777777777777777\Tutorial11\Tutorial11\obj\x86\Release\Tutorial11.Form1.resources
+C:\Users\Sasha\Desktop\777777777777777777\Tutorial11\Tutorial11\obj\x86\Release\Tutorial11.Properties.Resources.resources
+C:\Users\Sasha\Desktop\777777777777777777\Tutorial11\Tutorial11\obj\x86\Release\Tutorial11.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\777777777777777777\Tutorial11\Tutorial11\obj\x86\Release\Tutorial11.csproj.CoreCompileInputs.cache

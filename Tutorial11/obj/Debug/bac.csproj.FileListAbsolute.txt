@@ -1,0 +1,22 @@
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\Debug\bac.exe.config
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\Debug\bac.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\Debug\bac.pdb
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.csprojAssemblyReference.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\Tutorial11.Form1.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.Properties.Resources.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.csproj.GenerateResource.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.csproj.CoreCompileInputs.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.csproj.CopyComplete
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\Debug\bac.pdb
+D:\Projects\BAC\Tutorial11\bin\Debug\bac.exe.config
+D:\Projects\BAC\Tutorial11\bin\Debug\bac.exe
+D:\Projects\BAC\Tutorial11\bin\Debug\bac.pdb
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.csprojAssemblyReference.cache
+D:\Projects\BAC\Tutorial11\obj\Debug\Tutorial11.Form1.resources
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.Properties.Resources.resources
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.csproj.GenerateResource.cache
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.csproj.CoreCompileInputs.cache
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.csproj.CopyComplete
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.exe
+D:\Projects\BAC\Tutorial11\obj\Debug\bac.pdb

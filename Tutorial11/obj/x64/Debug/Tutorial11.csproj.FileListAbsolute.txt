@@ -1,0 +1,13 @@
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.csprojAssemblyReference.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.Form1.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.Properties.Resources.resources
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.csproj.GenerateResource.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.csproj.CoreCompileInputs.cache
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\x64\Debug\Tutorial11.exe.config
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\x64\Debug\Tutorial11.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\x64\Debug\Tutorial11.pdb
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\x64\Debug\NAudio.dll
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\bin\x64\Debug\NAudio.xml
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.csproj.CopyComplete
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.exe
+C:\Users\iKrok\OneDrive\Робочий стіл\Tutorial11\Tutorial11\obj\x64\Debug\Tutorial11.pdb
