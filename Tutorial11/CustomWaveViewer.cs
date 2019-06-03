@@ -289,7 +289,13 @@ namespace Tutorial11
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // CustomWaveViewer
+            // 
+            this.Name = "CustomWaveViewer";
+            this.ResumeLayout(false);
+
         }
         #endregion
     }

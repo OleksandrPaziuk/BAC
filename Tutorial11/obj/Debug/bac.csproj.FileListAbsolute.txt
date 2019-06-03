@@ -20,3 +20,14 @@ D:\Projects\BAC\Tutorial11\obj\Debug\bac.csproj.CoreCompileInputs.cache
 D:\Projects\BAC\Tutorial11\obj\Debug\bac.csproj.CopyComplete
 D:\Projects\BAC\Tutorial11\obj\Debug\bac.exe
 D:\Projects\BAC\Tutorial11\obj\Debug\bac.pdb
+C:\Users\Sasha\Desktop\BAC\Tutorial11\bin\Debug\bac.exe.config
+C:\Users\Sasha\Desktop\BAC\Tutorial11\bin\Debug\bac.exe
+C:\Users\Sasha\Desktop\BAC\Tutorial11\bin\Debug\bac.pdb
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.csprojAssemblyReference.cache
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\Tutorial11.Form1.resources
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.Properties.Resources.resources
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.csproj.GenerateResource.cache
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.csproj.CopyComplete
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.exe
+C:\Users\Sasha\Desktop\BAC\Tutorial11\obj\Debug\bac.pdb
